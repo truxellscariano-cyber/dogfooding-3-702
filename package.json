@@ -1,0 +1,26 @@
+{
+  "name": "3d-solar-system",
+  "version": "1.0.0",
+  "description": "交互式 3D 太阳系模拟器 - 使用 Three.js 构建",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "three.js",
+    "3d",
+    "solar-system",
+    "webgl",
+    "interactive"
+  ],
+  "author": "",
+  "license": "MIT"
+}
